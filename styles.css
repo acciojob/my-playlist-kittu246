@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+.heading{
+	text-align: center;
+}
+.playlist{
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	border-radius: 20px;
+}
+a{
+	text-decoration-line: none;
+}
+.list{
+	list-style-type: none;
+}
