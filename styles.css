@@ -3,9 +3,9 @@ body{
 	background-color: rgb(204, 204, 204);
 }
 .heading{
-	text-align: center;
+	text-align: center
 }
-.playlist{
+.player_one,.player_two{
 	background-color: rgb(255, 255, 255);
 	padding: 10px;
 	border-radius: 20px;
